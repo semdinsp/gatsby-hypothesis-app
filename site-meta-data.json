@@ -1,9 +1,9 @@
 {
-  "title": "Delog",
-  "siteUrl": "https://delog-w3layouts.netlify.com/",
-  "description": "Delog, a GatsbyJS and Netlify CMS starter for Designers and Developers",
+  "title": "Hypothesis App",
+  "siteUrl": "https://www.hypothesis-app.com/",
+  "description": "How to test multiple streams of data to see which is supeerior",
   "home": {
-    "title": "Hi! I'm Delog",
-    "description": "I have been specifically designed to become a digital home for designers and developers, help them build amazing professional looking websites with ease. You don't have to worry about nitty gritty of web hosting services to run a blog and yet take full advantage of CMS to manage content :)"
+    "title": "Hypothesis testing",
+    "description": "Testing whether a set of results are superiour using statistics.  Eg You have a set of A/B test results which one is better?  Find out here.  Simiilar a set of stock returns, compare the results statistically."
   }
 }
